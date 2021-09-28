@@ -1,0 +1,26 @@
+
+#location{
+  background-color: lightblue;
+  color:black;
+  padding:10px;
+  text-align: center;
+}
+
+.city{
+  background-color: tomato;
+  color:white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+span{
+    display:block;
+    margin-bottom: 5px;
+}
+
+.red span {
+    background-color: red;
+    padding:5px;
+}
+
